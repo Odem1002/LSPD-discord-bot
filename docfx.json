@@ -1,0 +1,12 @@
+{
+  "metadata": [
+    {
+      "src": [
+        {
+          "files": [ "**/*.sln", "src/DotnetNew/*.csproj" ],
+          "exclude": [ "**/bin/**", "**/obj/**" ]
+        }
+      ]
+    }
+  ]
+}
